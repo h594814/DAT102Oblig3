@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="postgresql-42.5.2.jar"/>
+	<classpathentry kind="lib" path="eclipselink-3.0.3.jar"/>
+	<classpathentry kind="lib" path="jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/F1_Eksempel2_Personer_og_JPA/lib/eclipselink-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/F2_Eksempel1_CRUD_solution/lib/eclipselink-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/F2_Eksempel2_Todos_initial/lib/eclipselink-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/F2_Eksempel2_Todos_solution/lib/eclipselink-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/F3_Eksempel1_Surrogate_Key/lib/eclipselink-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/F3_Eksempel2_Tid_Dato_Penger/lib/eclipselink-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
